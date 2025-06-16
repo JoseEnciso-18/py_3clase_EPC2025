@@ -8,3 +8,6 @@ Repositorio creado en la clase 3 del curso Python para Machine Learning (2025)
 # El mejor Heroe:
 ![CLINKZ](https://th.bing.com/th/id/OIP.0_Bb8X1agMbJIkkU7QKOIgHaEK?rs=1&pid=ImgDetMain)
 
+## Sesion3:
+ * GitOps: Git + Terraform + Kubernetes
+ * Git + Github.com
